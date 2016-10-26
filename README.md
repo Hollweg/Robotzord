@@ -7,4 +7,8 @@ O link para o artigo completo é o seguinte:
 
 http://ecoinovar.com.br/cd2014/arquivos/artigos/ECO091.pdf
 
+README em desenvolvimento.
+
+Em breve, haverá um tutorial e explicação detalhada do projeto. :)
+
 Qualquer alteração, sugestão ou dúvida, favor entra em contato com o autor.
