@@ -1,10 +1,13 @@
-# Robozord
-Software de acionamento e controle de Robô para PIC18F45K22.
-A proposta é desenvolver um software e hardware para um robô de material reciclado, podendo
-ser desenvolvido, montado e programado em casa.
-Esse software gerou um artigo, publicado no 3º Fórum Internacional Ecoinovar.
-O link para o artigo completo é o seguinte: 
+#Robozord
+
+## In development
+
+In a few days I'll post the complete files, documented, and I'll explain the entire project :)
+
+Software and hardware to an autonomous robot using PIC18F45K22.
+The purpose is to develop a software and hardware to a recycled material robot.
+This software generated a publication:
 
 http://ecoinovar.com.br/cd2014/arquivos/artigos/ECO091.pdf
 
-Qualquer alteração, sugestão ou dúvida, favor entra em contato com o autor.
+
