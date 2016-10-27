@@ -10,12 +10,4 @@ This software generated a publication:
 
 http://ecoinovar.com.br/cd2014/arquivos/artigos/ECO091.pdf
 
-<<<<<<< HEAD
-
-=======
-README em desenvolvimento.
-
-Em breve, haverá um tutorial e explicação detalhada do projeto. :)
-
-Qualquer alteração, sugestão ou dúvida, favor entra em contato com o autor.
->>>>>>> 2fd66aca3ce1d681aee10e0fe0cc552a682621ca
+If you have some doubt, please, contact me!
