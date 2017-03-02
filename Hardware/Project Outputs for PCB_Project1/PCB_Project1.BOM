@@ -1,0 +1,15 @@
+Bill of Material for PCB_Project1.PrjPCB
+On 22/09/2013 at 22:02:57
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 20MHz               BCY-W2/D3.1      1    Y1                           Crystal Oscillator   
+ 7805                TO254P1510-3_4N    1    VR1                          Voltage Regulator    
+ Cap                 RAD-0.3          9    C1, C2, C3, C4, C5, C6, C7   Capacitor            
+                                           C8, C?
+ IRF540              BCY-W3/B.8       4    Q1, Q2, Q5, Q6               N-Channel MOSFET     
+ IRF9540             BCY-W3/B.8       4    Q3, Q4, Q7, Q8               P-Channel MOSFET     
+ Motor               RB5-10.5         2    B0, B?                       Motor, General Kind  
+ PIC18F45K20-I/P     PDIP600-P40      1    U0                           Flash Microcontroller with 10-Bit A/D and nanoWatt Technology, 32K Flash, 40-Pin PDIP, Industrial Temperature Range 
+ Res1                AXIAL-0.3        5    R1, R2, R3, R4, R5           Resistor             
+ Res2                AXIAL-0.4        4    R6, R7, R8, R9               Resistor             
