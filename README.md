@@ -36,7 +36,8 @@ The software was developed using MikroC, and the robot main idea is to **receive
 
 In addition, I did put a hole plastic wheel on each axis to couple the infrared sensors and count the number of pulses per revolution. Though, we have an encoder and can measure the distance that the robot moved, making its instructions more accurate.
 
-The robot can move based on time or based on the distance 
+The robot can move based on time or based on the distance measured by its encoder. </br>
+This project pictures do not show the encoders in place, but it is working on the Robotzord 2.0 version, that will be available soon in my Github page. 
 
 File types in project:
 
@@ -81,9 +82,9 @@ http://ecoinovar.com.br/cd2014/arquivos/artigos/ECO091.pdf
 
 ![Imgur](http://i.imgur.com/WSppJxU.jpg)
 
-P.S.: In the picture its missing the microcontroller, but you can see its spot on the picture, between the LCD and the buttons board. :P
+**P.S.1:** In the picture its missing the microcontroller, but you can see its spot on the picture, between the LCD and the buttons board. :P
 
-There is a new version of the robot, and it contains more sensors and the hardware and software are really optimized, but I did not have time yet to post the project on Github. However, I'll post it and make a report soon as I can. :)
+**P.S.2:** There is a new version of the robot, and it contains more sensors and the hardware and software are really optimized, but I did not have time yet to post the project on Github. However, I'll post it and make a report soon as I can. :)
 
 ##Copyrigths
 
@@ -93,4 +94,4 @@ However, I only ask you to **keep author credits.** :)
 
 Enjoy!
 
-Hollweg
+**Hollweg**
