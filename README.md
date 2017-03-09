@@ -3,9 +3,9 @@
 
 ##The purpose
 
-The purpose was to develop a low-cost robot using recycled material. </br>
-The project covers the software and hardware of a robot car made from scratch using recycled material and a PIC18F45K22 as its brain. </br>
-The Robotzord was developed as a personal project during my Electrical Engineering graduation and it was mounted on a breadboard according to Proteus folder schematics.
+The purpose was to develop a **low-cost robot using recycled material.** </br>
+The project covers **the software and hardware of a robot car made from scratch using recycled material and a PIC18F45K22 as its brain.** </br>
+The Robotzord was developed as a **personal project during my Electrical Engineering graduation** and it was mounted on a breadboard according to Proteus folder schematics.
 
 ##Utility
 
@@ -49,7 +49,7 @@ File types in project:
 
 *Below there is an imagem of the project hardware designed using Altium Designer.*
 
-![Imgur](http://i.imgur.com/WSppJxU.jpg)
+**insert image**
 
 ##Which was used in project?
 
@@ -79,9 +79,11 @@ http://ecoinovar.com.br/cd2014/arquivos/artigos/ECO091.pdf
 
 *Below, there is an image of the final result.*
 
-![Imgur](http://i.imgur.com/iAL2RE6.jpg)
+![Imgur](http://i.imgur.com/WSppJxU.jpg)
 
 P.S.: In the picture its missing the microcontroller, but you can see its spot on the picture, between the LCD and the buttons board. :P
+
+There is a new version of the robot, and it contains more sensors and the hardware and software are really optimized, but I did not have time yet to post the project on Github. However, I'll post it and make a report soon as I can. :)
 
 ##Copyrigths
 
