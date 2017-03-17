@@ -1,20 +1,20 @@
 
-#Robotzord
+# Robotzord
 
-##A Proposta
+## A Proposta
 
 A proposta do projeto é desenvolver **um robô de baixo custo utilizando material reciclado.** </br>
 O projeto cobre o desenvolvimento de **software e hardware de um robô com rodas feito com material reciclado utilizando um PIC18F45K22 como cérebro da máquina.** </br>
 O Robotzord foi feito como **projeto pessoal durante minha graduação em Engenharia Elétrica (UFSM)** e foi montado de acordo com o esquemático do Altium Designer disponibilizado na pasta /Hardware.
 
-##Utilidade
+## Utilidade
 
 O código foi desenvolvido especificamente para **plataforma PIC**. No entanto, se algumas alterações forem feitas, principalmente na inicialização e configuração de alguns registradores, **o projeto pode ser adaptado para outras famílias de microcontroladores, de diferentes fabricantes**.
 
 A linguagem de programação utilizada no projeto foi C e a Interface Development Environment (IDE) foi MikroC Pro PIC. </br>
 **Robotzord foi desenvolvido quando eu estava no meu 3 º semestre** de graduação em **Engenharia Elétrica na UFSM**. Então, eu gostaria de deixar claro que se eu desenvolvesse o mesmo projeto hoje, certamente um monte de coisas seriam **diferentes, melhoradas e otimizadas.** ;)
  
-##Como funciona?
+## Como funciona?
 
 A estrutura mecânica do robô foi desenvolvida com **material reciclado.** </br>
 **Seu chassi é um antigo drive obsoleto de CD/DVD + uma caixa plástica de eletroduto cortada pela metade**, **suas rodas são de uma moto de brinquedo de plástico** e sua **roda de apoio traseira é composta por um cooler de computador antigo de plástico velho e algumas peças de brinquedos quebrados.** </br>
@@ -50,9 +50,9 @@ Tipos de arquivo no projeto:
 
 *Abaixo, tem-se uma imagem do hardware montado no software Altium Designer.*
 
-**insert image**
+![Imgur](http://i.imgur.com/qScvgSV.png)
 
-##O que foi utilizado no projeto?
+## O que foi utilizado no projeto?
 
 **Lista de Materiais**:
 
@@ -86,7 +86,7 @@ http://ecoinovar.com.br/cd2014/arquivos/artigos/ECO091.pdf
 
 **P.S.2:** Existe uma nova versão do robô, que contém mais sensores e o hardware e software estão otimizados, mas eu ainda não tive tempo de postar o projeto no Github. No entanto, vou publicá-la e fazer um relatório logo que puder. :)
 
-##Direitos
+## Direitos
 
 **O projeto pode ser reproduzido sem problema algum.** </br>
 Entretanto, caso isso seja feito, apenas peço para manterem/referenciarem **créditos ao autor**.

@@ -1,20 +1,20 @@
 
-#Robotzord
+# Robotzord
 
-##The purpose
+## The purpose
 
 The purpose was to develop a **low-cost robot using recycled material.** </br>
 The project covers **the software and hardware of a robot car made from scratch using recycled material and a PIC18F45K22 as its brain.** </br>
 The Robotzord was developed as a **personal project during my Electrical Engineering graduation** and it was mounted on a breadboard according to /Hardware folder schematics.
 
-##Utility
+## Utility
 
 The code was developed specifically to **PIC platform**. However, if some changes were made, mainly in initialization, configuration and some registers, **the project can be adapted to other microcontroller families, from different manufacturers**.
 
 The programming language used in project was C and the Interface Development Environment (IDE) was MikroC Pro Pic. </br>
 **Robotzord was developed when I was in my 3rd semester** of the **Electrical Engineering at UFSM**. So, I would like to make it clear that if I would develop the same project today, certainly a lot of things would be **different, improved and optimized.** ;)
  
-##How it works?
+## How it works?
 
 The robot mechanical structure was made from **recycled material.** </br>
 **Its chassi is an old computer CD/DVD drive + an electric plastic box cutted on half**, **its wheels are from an old plastic toy motorbike** and its **rear supporting wheel is composed by an old fan and old plastic parts from broken toys.** </br>
@@ -50,9 +50,9 @@ File types in project:
 
 *Below there is an imagem of the project hardware designed using Altium Designer.*
 
-**insert image**
+![Imgur](http://i.imgur.com/qScvgSV.png)
 
-##Which was used in project?
+## Which was used in project?
 
 **Bill of materials**:
 
@@ -86,7 +86,7 @@ http://ecoinovar.com.br/cd2014/arquivos/artigos/ECO091.pdf
 
 **P.S.2:** There is a new version of the robot, and it contains more sensors and the hardware and software are really optimized, but I did not have time yet to post the project on Github. However, I'll post it and make a report soon as I can. :)
 
-##Copyrigths
+## Copyrigths
 
 **The project can be reproduced without any problems.** </br>
 However, I only ask you to **keep author credits.** :)
